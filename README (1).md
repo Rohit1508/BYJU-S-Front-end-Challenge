@@ -72,5 +72,5 @@ Implementations focusing on **quality over feature completeness** will be highly
 - Open terminal and run the command npm start to run the server
 - Click on the give local host Url - http://localhost:8000
 
-## Assumptio
+## Assumption
 - If we have already filter of experience and location then I dont think so there is a need to sort the jobs based on Expereince and location.
