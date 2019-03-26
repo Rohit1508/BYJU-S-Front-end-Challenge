@@ -64,3 +64,13 @@ Before submitting, make sure that your program
 ## Note
 
 Implementations focusing on **quality over feature completeness** will be highly appreciated,  don’t feel compelled to implement everything and even if you are not able to complete the challenge, please do submit it anyways.
+
+## How to run the application
+- Extract the .zip file.
+- Install the node modules
+- Open the folder /app
+- Open terminal and run the command npm start to run the server
+- Click on the give local host Url - http://localhost:8000
+
+## Assumptio
+- If we have already filter of experience and location then I dont think so there is a need to sort the jobs based on Expereince and location.
